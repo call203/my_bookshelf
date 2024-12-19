@@ -14,7 +14,6 @@
 1. 저장소를 클론합니다:
    bash
    git clone https://github.com/call203/my_bookshelf.git
-   cd moviemark
 
 2. 의존성 설치:
    bash
